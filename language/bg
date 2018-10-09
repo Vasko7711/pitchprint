@@ -37,7 +37,7 @@
 	"login_instagram": "access photos from instagram",
 	"login_facebook": "access photos from facebook",
 	"or": "Or",
-	"add_files": "Click to Add Files",
+	"add_files": "Моля прикачете файл",
 	"upload_error": "Sorry, there was an error uploading your files. Please check the network connection and try again",
 	"upload_complete": "Upload Successful!",
 	"pick_design": "Please pick a design here",
